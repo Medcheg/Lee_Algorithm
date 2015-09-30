@@ -1,0 +1,23 @@
+# common files
+*.o.d
+*.o
+*.*~
+*~
+*.config
+*.files
+*.includes
+*.map
+*.lst
+*.creator
+*.creator.user
+*.creator.user.*
+*.autosave
+*.*.autosave
+*.signed
+*.axf
+*.map
+*.lst
+*.pem
+
+# automatic generated file
+lee_algo
